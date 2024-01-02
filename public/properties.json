@@ -1,0 +1,121 @@
+[
+    {
+      "location": "Dallas",
+      "title": "Amy Winehouse",
+      "description": "This Luxury Studio apartment is perfect for a solo/business traveler or small group exploring Dallas for extended periods or relocating. The apt and amenities are designed for an ultimate experience. Features comfortable beds, fully equipped kitchen and more. Experience Dallas With Us!",
+      "nightlyfee" :"80$ per night", 
+      "cleaningfee":"15$", 
+      "servicefee":"20$",
+      "amenities":"King Sized Bed,Bathroom with modern vanity,Free parking for 1 Car,Flat-screen TVs,Washer and Dryer in the unit",
+      "bedrooms":"2",
+      "image1":"d11.webp",
+      "image2":"d12.webp",
+      "image3":"d13.webp"
+    },
+  {
+      "location": "Dallas",
+      "title": "The Oakley",
+      "description": "This unit is one of the 6 units of the building. One designated spot for parking in the parking lot, however guests may park across the street, if needed. Building is gated for security purposes.",
+      "nightlyfee" :"90$ per night", 
+      "cleaningfee":"25$", 
+      "servicefee":"30$",
+      "amenities":"King Sized Bed,Bathroom with modern vanity,Free parking for 1 Car,Flat-screen TVs,Washer and Dryer in the unit",
+      "bedrooms":"1",
+      "image1":"d21.webp",
+      "image2":"d22.webp",
+      "image3":"d23.webp"
+    },
+  {
+      "location": "Dallas",
+      "title": "Boho Cozy",
+      "description": "I have been airbnb ing as a host for 7 years and this place is hands down my little gem. I bought it recently and have designed it to be a great space for responsible adults (and their kids) to gather and enjoy Dallas.",
+      "nightlyfee" :"120$ per night", 
+      "cleaningfee":"25$",
+      "servicefee":"40$",
+      "amenities":"King Sized Bed,Bathroom with modern vanity,Free parking for 1 Car,Flat-screen TVs,Washer and Dryer in the unit",
+      "bedrooms":"2",
+      "image1":"d31.webp",
+      "image2":"d32.webp",
+      "image3":"d33.webp"
+    },  
+  {
+      "location": "Los Angeles",
+      "title": "Topanga Pool House",
+      "description": "The Topanga Pool House is a resort like property located right at the edge of the State Park, providing canyon views & a lush, temperate climate filled with ocean breezes. The infrared sauna, cedar plunge pool, hot tub & outdoor bed on the yoga deck provide a perfect environment to leave the hustle of the city and escape to where the mountains meet the sea. Your hosts live in the upstairs unit, however we do our best to respect guest's privacy.",
+      "nightlyfee" :" $410 per night", 
+      "cleaningfee":"$80 ", 
+      "servicefee":"$301",
+      "amenities":"  Mountain view, Valley view, Kitchen, Wifi, Dedicated workspace, Free street parking, Pool, Hot tub, Air conditioning, Patio or balcony, ",
+      "bedrooms":"1",
+      "image1":"la11.webp",
+      "image2":"la12.webp",
+      "image3":"la13.webp"
+    },
+  {
+      "location": "Los Angeles",
+      "title": "CasitaCaliLuz Relax",
+      "description": "Welcome to CasitaCaliluz. This newly built pool house, set. March 2021, is bright and airy, is decorated with style and is situated in one of LA's most beloved neighborhoods. Atwater village is a walkable Nieghborhood with bars, restaurants, shops, Griffith park, hiking, biking, and farmers market near by. Guest house is located blocks from the 180 and 181 bus lines which will take you directly into the heart of Hollywood. freeways, studios, and many LA tourists attractions near by.",
+      "nightlyfee" :" $180 per night", 
+      "cleaningfee":" $160 ", 
+      "servicefee":" $150 ",
+      "amenities":"Mountain view, Kitchen, Wifi, Shared outdoor pool, TV, Washer, Free dryer, Air conditioning, Private patio or balcony, Private backyard – Fully fenced",
+      "bedrooms":"3",
+      "image1":"la21.webp",
+      "image2":"la22.webp",
+      "image3":"la23.webp"
+    },
+  {
+       "location": "Los Angeles",
+      "title": "Golden Hour Loft",
+      "description": "Sitting in your hot tub on the roof, surrounded by world-famous skyscrapers, you’ll fall in love with Los Angeles. You’ll awaken to the sunrise painting the loft pink through ten-foot-tall windows. There’s nothing quite like sipping your morning coffee on a rope swing, with classics playing on the record player, looking out at the shimmering City of Angels. Around you, your home is an oasis filled with peaceful plants and lots of little luxuries.",
+      "nightlyfee" :" $211 per night", 
+      "cleaningfee":"$100", 
+      "servicefee":" $163",
+      "amenities":"City skyline view, Kitchen, Wifi, Dedicated workspace, Free parking on premises, Shared outdoor pool - available all year, open specific hours, rooftop, Shared hot tub - available all year, open specific hours, HDTV with Amazon Prime Video, Disney+, HBO Max, Hulu, Netflix ,Elevator, Free washer – In unit",
+      "bedrooms":"2",
+      "image1":"la31.webp",
+      "image2":"la32.webp",
+      "image3":"la33.webp"
+    },
+  {
+      "location": "New York",
+      "title": "The Garden Apartment",
+      "description": "A quiet refuge in the middle of fashionable Park Slope, Brooklyn. The bottom half of a two-family private dwelling, this clean and comfortable one bedroom is close to restaurants, museums, and parks. The pull out sofa in the living room easily accommodates two more for a total of four people. An easy fifteen minutes away from Manhattan or the beach by train.",
+      "nightlyfee" :"$120 per night", 
+      "cleaningfee":"$135", 
+      "servicefee":"$104",
+      "amenities":"Kitchen, Wifi, Free parking on premises, TV with standard cable, Netflix, Roku, Window AC unit, Shared patio or balcony, Private backyard – Fully fenced Luggage dropoff allowed, Pack ’n play/Travel crib, Children’s books and toys",
+      "bedrooms":" 2",
+      "image1":"ny11.webp",
+      "image2":"ny12.webp",
+      "image3":"ny13.webp"
+    },
+  {
+     "location": "New York",
+      "title": "Suite Dante",
+      "description": "This Stunning/Freshly remodeled large 1 bedroom /living room apartment is located in the heart of Long Island City/Astoria. Its gorgeousness and cozyness will make you feel at home the second you step in.A 10-15 min train ride is all it takes to get to midtown/NYC. Subway, supermarkets, stores, pharmacies, coffer shops are steps away from the property (5-8 minutes). ",
+      "nightlyfee" :"$136 per night", 
+      "cleaningfee":"$100", 
+      "servicefee":"$110",
+      "amenities":"Kitchen, Wifi, Free street parking, TV with standard cable, Air conditioning, Bathtub, Hair dryer, Refrigerator",
+      "bedrooms": "3",
+      "image1":"ny21.webp",
+      "image2":"ny22.webp",
+      "image3":"ny23.webp"
+    },
+  {
+      "location": "New York",
+      "title": "Mural House",
+      "description": "This private 1br apartment is located on the ground floor of a gorgeous townhome. Enjoy a private entrance to this 1br efficiency apartment (feels like a large hotel suite with a fully equipped kitchen), perfect for a single person or couple. You have access to the free laundry room to wash your stuff so you can pack light. The home is 5 blocks away from the A train that takes you express to NYC in under 25min. BedStuy is a vibrant Brooklyn neighborhood full of great restaurants and bars.",
+      "nightlyfee" :"$85 per night", 
+      "cleaningfee":"$100", 
+      "servicefee":"$74",
+      "amenities":"Kitchen, Fast wifi - 572 Mbps, Dedicated workspace, Free parking on, premises, Pets allowed, Free washer – In building, Free dryer – In building, AC - split type, ductless system, Security cameras on property",
+      "bedrooms":"1",
+      "image1":"ny31.webp",
+      "image2":"ny32.webp",
+      "image3":"ny33.webp"
+    }
+  ]
+  
+  

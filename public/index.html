@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+    <!-- Bootstrap CSS -->
+
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    <!-- Bootstrap CSS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+      
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    
+      <style>
+        .w-100{
+          width: 100%!important;
+          
+      
+        }
+        .d-block{
+          display: block!important;
+        }
+        img{
+          vertical-align: middle;
+          border-style: none;
+        }
+      </style>
+      <script type="text/javascript">
+        $('[id^="myCarousel"]').carousel();
+          </script>
+  </head>
+    <title>The Homestay Company</title>
+
+</head>
+<body>
+  <nav class="navbar navbar-expand-md bg-light">
+    <div class="container-fluid">
+        <nav class="navbar bg-light">
+            <div class="container">
+              <a class="navbar-brand" href="#">
+                <img src="project image.png" alt="The Homestay Company" width="100" height="70">
+              </a>
+            </div>
+          </nav>
+      <!-- <a class="navbar-brand" href="#">Navbar</a> -->
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Home</a>
+          </li>                 
+          <li class="nav-item">
+            <a class="nav-link" href="#">Property Details</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Make A Reservation</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Menu Details
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#">Properties</a></li>
+              <li><a class="dropdown-item" href="#">Reservations</a></li>
+              <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="#">About</a></li>
+            </ul>
+          </li>
+          <!-- <li class="nav-item">
+            <a class="nav-link disabled">Disabled</a>
+          </li> -->
+        </ul>
+      </div>
+    </div>
+  </nav>
+  
+  <div class ="d-flex m-2">
+    <div class="col-xs-12 col-md-3" >
+
+      <h1 class="text-primary">Stay Finder</h1>
+    <form>
+      <div class="form-row">
+          <div class="mb-2">
+            <label for="validationDefault01">LOCATION</label>
+            <input type="text" class="form-control" id="validationDefault01" placeholder="Location" value="Dallas" required>
+          </div>                
+      </div>
+
+      <div class="form-row">
+        <div class="mb-2">
+          <label for="validationDefault01">CHECK IN</label>
+          <input type="text" class="form-control" id="validationDefault01" placeholder="CHECK IN" value="02/02/2022" required>
+        </div>
+
+        <div class="mb-2">
+          <label for="validationDefault02">CHECK OUT</label>
+          <input type="text" class="form-control" id="validationDefault02" placeholder="CHECK OUT" value="02/12/2022" required>
+        </div>
+      </div>
+
+
+      <div class="form-row">
+        <div class="mb-2">
+          <label for="validationDefault03">ADULTS</label>
+          <input type="text" class="form-control" id="validationDefault03" placeholder="2" required>
+        </div>
+
+        <div class="mb-2">
+          <label for="validationDefault04">CHILDREN</label>
+          <input type="text" class="form-control" id="validationDefault04" placeholder="1" required>
+        </div>
+      </div>
+
+
+
+      <button class="btn btn-primary" type="search">Book</button>
+    </form>
+  </div>
+  <div class="col-xs-12 col-md-9">
+    <div class="jumbotron p-5 m-4 bg-light">
+      <h1 class="display-4">The Homestay Company</h1>
+
+      <p class="lead">Welcome! This is a place where you can book our customized homes for your vacations, parties, workations etc</p>
+      <hr class="my-4">
+      <p>We have all kinds of homes ranging from Cabins, Independent homes, Apartments, Castles etc.</p>
+      <p class="lead">
+        <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+      </p>
+    </div>
+  </div>
+  </div>
+  <div>
+  <h2 class="text-primary mt-2 p-2">Property Listing</h2>
+  <div id="root">
+
+    </div>
+  </div>
+</div>
+<footer class="bg-light text-center text-lg-start ">
+  <div class="text-center p-3 bg-primary text-white">
+    © 2022 Copyright:
+    <a class="text-white" href="#">Home Stay Company</a>
+  </div>
+</footer>
+</body>
